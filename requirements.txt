@@ -1,0 +1,12 @@
+## Requirements
+
+The analysis code requires the following dependencies:
+
+- Python 3.x
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- mlxtend
+- plotly
